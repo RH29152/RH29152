@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rashid Hussain
 - 👀 I’m interested in cyber and development
-- 🌱 I’m currently learning computer science degree
+- 🌱 I’m currently pursuing computer science degree from IBA Karachi,Pakistan
 - 📫 How to reach me whatsapp=03027634085
 
 <!---
