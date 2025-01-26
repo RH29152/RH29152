@@ -6,9 +6,11 @@
   <a href="https://github.com/RH29152">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
+  
   <a href="www.linkedin.com/in/rashid-hussain-a59a562a2">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:rh561919@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail" alt="Email" />
   </a>
