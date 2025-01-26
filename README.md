@@ -20,7 +20,7 @@
 - 🎓 Pursuing a degree in **Computer Science** at IBA Karachi.
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**.
 - 💡 Always eager to learn new technologies and solve real-world problems.
-- 🌱 Currently exploring **Deep Learning** and **Web Development**.
+- 🌱 Currently exploring **AI** and **Web Development**.
 
 ---
 ### **🛠️ Skills & Tools**
